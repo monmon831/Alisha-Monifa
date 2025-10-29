@@ -8,7 +8,7 @@
 ---
 
 ## 🌸 About Me
-Hi! I'm **Alisha Monifa**, Fresh graduate of Diploma 4 (D4) in Informatics Engineering (GPA 3.47) with a focus on Data Analysis & Machine Learning. Successfully developed Machine Learning & Deep Learning models (CNN, VGG16) with up to 97% accuracy and integrated them into web & mobile applications. Has internship experience as a Web Developer, contributing to the development of CRUD features and admin dashboards, and is accustomed to working in teams to complete projects. 
+Hi! I'm **Alisha Monifa**, Fresh graduate of Diploma 4 (D4) in Informatics Engineering (GPA 3.47) with a focus on Data Analysis & Machine Learning. Successfully developed Machine Learning & Deep Learning models (CNN, VGG16) with up to 97% accuracy and integrated them into web & mobile applications. Has internship experience as a Modeller 3D Animation, and a Web Developer, contributing to the development of CRUD features and admin dashboards, and is accustomed to working in teams to complete projects. 
 
 - 🔬 Focus: **Data Analytics, Machine Learning, and Full-Stack Development**  
 - 🌱 Currently learning: **Advanced Deep Learning**  
