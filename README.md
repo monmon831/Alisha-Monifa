@@ -2,7 +2,7 @@
 
 <h1 align="center">✨ Alisha Monifa ✨</h1>
 <p align="center">
-  <em>Data Analyst | AI / Machine Learning Engineer | Web & Mobile Developer</em>
+  <em>Data Analyst | AI / Machine Learning Engineer | Web & Mobile Developer | Modeller 3d</em>
 </p>
 
 ---
@@ -19,18 +19,19 @@ Hi! I'm **Alisha Monifa**, Fresh graduate of Diploma 4 (D4) in Informatics Engin
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,ts,react,laravel,php,nodejs,mysql,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,php,nodejs,mysql,git,github,figma,java,c#,unity,blender" />
 </p>
 
 ---
 ## 🧑‍💻 Experience
 
-### 🌊 Kampus Merdeka – Maritim Muda Nusantara | *Web Developer & Administrator (Internship)*  
-📍 Jakarta Timur | ⏳ Feb 2024 – Jun 2024  
+### 🌊 Department of Communication, Informatics, and Statistics of Riau Province | *Public Communications & 3D Modeller (Internship)*  
+📍 Pekanbaru, Riau | ⏳ Feb 2024 – Jun 2024  
 
-- Redesigned the **version 3 website** [hub.maritimmuda.id](https://hub.maritimmuda.id/), improving overall **user experience**.  
-- Developed **catalog, announcement, and developer pages** to enrich platform content.  
-- Built a **catalog CRUD feature** in the admin panel, accelerating data input by up to **50%**.  
+- Manage official social media accounts and create informative and visual content for publication.
+- Take photos and videos of official activities and edit them.
+- Create internal activity reports and publish documentation results.
+- Design and produce 3D animations as public information media about the Riau Command Center (RCC). 
 
 ---
 
