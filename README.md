@@ -37,7 +37,7 @@ Hi! I'm **Alisha Monifa**, Fresh graduate of Diploma 4 (D4) in Informatics Engin
 
 ## 📌 Featured Projects
 
-###  Detecting Dominant Colors in an Image  
+### 🎨 Detecting Dominant Colors in an Image  
 - The system is capable of grouping image pixels based on color similarity and presenting the results as a representative palette of dominant colors.
 - The image preprocessing process (conversion to RGB, resizing, and normalization) improves processing efficiency and the accuracy of color extraction.
 - The implementation of a web-based interface using Gradio simplifies user interaction for uploading images, setting the number of dominant colors, and displaying analysis results visually.
