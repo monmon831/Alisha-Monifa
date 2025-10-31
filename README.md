@@ -37,10 +37,12 @@ Hi! I'm **Alisha Monifa**, Fresh graduate of Diploma 4 (D4) in Informatics Engin
 
 ## 📌 Featured Projects
 
-### 🥭 Mango Leaf Disease Detection  
-- Building a CNN model with 95% accuracy for mango leaf disease classification. 
-- Integrating the model into an interactive website for user use.   
-🔗 [View Repository](https://github.com/ulfa03/Klasifikasi-Penyakit-Daun-Mangga-Menggunakan-CNN)  
+###  Detecting Dominant Colors in an Image  
+- The system is capable of grouping image pixels based on color similarity and presenting the results as a representative palette of dominant colors.
+- The image preprocessing process (conversion to RGB, resizing, and normalization) improves processing efficiency and the accuracy of color extraction.
+- The implementation of a web-based interface using Gradio simplifies user interaction for uploading images, setting the number of dominant colors, and displaying analysis results visually.
+- Interactive features such as pixel marking based on selected colors and a palette download option enhance the system’s functionality and user experience.   
+🔗 [View Repository](https://github.com/monmon831/Computer-Vision)  
 
 ### 🌶️ Chili Leaf Disease Mobile App  
 - Produced a CNN model with 92% accuracy and a VGG-16 model with 99% accuracy for chili leaf disease classification.
