@@ -71,10 +71,10 @@ Hai! Saya Alisha Monifa, lulusan Diploma 4 (D4) Teknik Informatika yang memiliki
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://ulfa03.github.io/portofolio-ulfa.github.io/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ulfa-damayanti03/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ulfadamayanti79@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ulfa03"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/monmon831"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alisha-monifa"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alishamonifa3@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/monmon831"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 
